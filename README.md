@@ -1,3 +1,3 @@
 # CBNet
-The CBNET model can be obtained in the following link：链接：https://pan.baidu.com/s/1jU3ElGQkgB5g0bCZwfiE2Q?pwd=z8j7 
-提取码：z8j7
+The CBNET model can be obtained in the following link：https://pan.baidu.com/s/1DicxNl67a634Z5EfPe868w?pwd=a9q9 
+提取码：a9q9
